@@ -14,7 +14,7 @@ The model is trained on experimentally measured mutation effects and evaluated u
 
 ## Notebooks
 
-### `Kermut_supervised_FINAL.ipynb`
+### `Kermut_supervised.ipynb`
 
 Main notebook for training and evaluating Kermut on the benchmark datasets.
 
