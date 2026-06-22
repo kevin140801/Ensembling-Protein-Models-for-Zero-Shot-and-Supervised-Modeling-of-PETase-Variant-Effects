@@ -13,7 +13,7 @@ The main goal is to evaluate whether combining complementary supervised model pr
 
 ## Notebook
 
-### `ensemble_final.ipynb`
+### `ensemble.ipynb`
 
 Builds and evaluates weighted rank-based ensembles of supervised model predictions.
 
