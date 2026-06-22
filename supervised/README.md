@@ -19,7 +19,7 @@ The benchmark datasets include multiple proteins and assays, covering both singl
 
 ## Directory Structure
 
-### `ESM2/`
+### `ESM-2/`
 
 Contains the supervised ESM-2 fine-tuning workflow, including data preparation, model training and evaluation.
 
