@@ -10,7 +10,8 @@ The evaluated models include:
 - Rank-based ensemble
 
 The goal of the zero-shot analysis is to assess whether pretrained protein language models, evolutionary predictors and structure-based methods can prioritize mutation effects without task-specific training data. Model performance is evaluated on multiple deep mutational scanning (DMS) datasets using Spearman rank correlation and NDCG@10%.
-Predictions for EVE, ESM-3 and ESM-IF were externally provided by my supervisor and are therefore not recomputed in this repository. The corresponding prediction files are stored in the `predictions/` directory under the respective model subfolders.
+
+EVE, ESM-3 and ESM-IF were also used in the analyses presented in the thesis. The corresponding code is not included in this repository because access to these models was provided by my supervisor.
 
 In addition to the benchmark evaluation, this directory contains notebooks for:
 - Multi-mutant variant analysis
