@@ -66,4 +66,4 @@ Original benchmark datasets were obtained from:
 
 ## Notes
 
-Predictions from EVE, ESM-3 and ESM-IF were provided by my supervisor and are included as precomputed prediction files.
+EVE, ESM-3 and ESM-IF were used in the analyses presented in the thesis. The corresponding code is not included in this repository because access to these models was provided by my supervisor.
